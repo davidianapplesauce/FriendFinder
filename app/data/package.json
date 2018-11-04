@@ -1,0 +1,17 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "friends.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "DavidSweck",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "require": "^2.4.20"
+  }
+}
